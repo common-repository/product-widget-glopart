@@ -1,0 +1,55 @@
+.pwg_settings h4{
+    border-bottom: 1px solid #DFDFDF;
+    margin: 15px 0;
+    padding: 0 0 10px 0;
+}
+.pwg_settings label{
+    font-size: 12px;
+}
+.pwg_settings td {
+    padding: 5px 0;
+}
+.pwg_smalltext{
+    font-size: 11px;
+    color: #666666;
+}
+.pwg_coffee {
+    border: 2px solid #4CAF50;
+    border-radius: 3px;
+    padding: 10px 190px 10px 60px;
+    background: url(../images/pay_icon.png) 17px 15px no-repeat;
+    background-size: 7%;
+    position: relative;
+    margin: 20px 0px;
+}
+.pwg_coffee p{
+    margin: 0;
+    font-size: 13px;
+}
+.pwg_coffee_wrap{
+    position: absolute;
+    top: 13px;
+    right: 5px;
+    width: 150px;
+}
+.pwg_coffee_wrap p{
+    display: inline-block;
+}
+.pwg_coffee_btn{
+    height: 24px !important;
+    font-size: 12px !important;
+    vertical-align: middle !important;
+}
+.pwg_note{
+    border: 1px solid #FFD893;
+    padding: 10px;
+    background: #FFFEDA;
+    margin: 10px 0 0;
+    display: block;
+    border-radius: 3px;
+}
+#available-widgets [id*="pwg_glopart"] .widget-title h3 {
+    background: url(../images/icon.png) no-repeat;
+    background-position: 94%;
+    background-repeat: no-repeat;
+}

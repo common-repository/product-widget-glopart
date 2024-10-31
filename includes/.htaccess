@@ -1,0 +1,5 @@
+deny from all
+<Files engine.php>
+order allow,deny
+allow from all
+</Files>
